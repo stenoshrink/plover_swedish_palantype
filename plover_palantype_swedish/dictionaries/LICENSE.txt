@@ -4,7 +4,7 @@ Språkrådet is the author of Lexin: Svenskt lexikon.
 
 Lexin: Svenskt lexikon is licensed under Creative Commons BY which permits use, modification, distribution and derivative work of the material.
 
-user_swedish.json contains entries defined by Max Helmisaari.
-user_swedish.json is not derivative work of Lexin: Svenskt lexikon.
+swedish_sample.json contains entries defined by Max Helmisaari.
+swedish_sample.json is not related to nor derivative work of Lexin: Svenskt lexikon.
 
 The dictionaries provided are a work in progress, and any faults and irregularities in the Palantype outline of words are not to be viewed as reflections of the state of Lexin: Svenskt lexikon.

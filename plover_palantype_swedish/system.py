@@ -159,5 +159,6 @@ KEYMAPS = {
 DICTIONARIES_ROOT = 'asset:plover_palantype_swedish:dictionaries'
 DEFAULT_DICTIONARIES = (
     'swedish_autogen_v4.json',
-    'swedish_autogen_c_v4.json'
+    'swedish_autogen_c_v4.json',
+    'swedish_sample.json'
 )
