@@ -1,5 +1,3 @@
-from plover.system import english_stenotype
-
 KEYS = (
     'S-', 'C-', 'P-', 'T-', 'H-', '+-', 'M-', 'F-', 'R-', 'N-', 'L-', 'Y-',
     'O-', 'E-', '-A', '-U',
@@ -160,6 +158,6 @@ KEYMAPS = {
 
 DICTIONARIES_ROOT = 'asset:plover_palantype_swedish:dictionaries'
 DEFAULT_DICTIONARIES = (
-    'sample_swedish.json',
-    'user.json'
+    'swedish_autogen_v4.json',
+    'swedish_autogen_c_v4.json'
 )
