@@ -11,4 +11,4 @@ See instructions on the Github page for the English Palantype system `here <http
 
 Credits
 ~~~~~~~
-This work was made possible by Ted Morin (morinted@gmail.com) who developed the original plover palantype plugin (which can be found `here <https://github.com/morinted/plover_palantype/>`_.) upon which this plugin is based.
+This work was made possible by Ted Morin (morinted@gmail.com) who developed the original plover palantype plugin (which can be found `here <https://github.com/morinted/plover_palantype/>`_) upon which this plugin is based.
