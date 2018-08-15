@@ -1,0 +1,3 @@
+- Provide theory in Swedish and in English (for reference)
+- Change to using IPA symbols throughout
+- Add a README explaining the basic principles of the Swedish Palantype theory
