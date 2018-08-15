@@ -3,7 +3,7 @@ Plover Swedish Palantype
 
 Swedish Palantype support for Plover.
 
-**NOTE: This is a work in progress and is far from feature complete!**
+**This is a work in progress and is far from feature complete!**
 
 Activating Palantype
 ~~~~~~~~~~~~~~~~~~~~
